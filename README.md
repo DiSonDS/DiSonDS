@@ -2,10 +2,6 @@
 
 <p align='left'>I love bots and everything related to them</p>
 
--   🔭 I’m currently working on filling out my github 
--   🤔 I’m looking for help with job search 
--   ⚡ Fun fact: I learned the alphabet of sign language 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/disonds/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://disonds.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/DiSonDS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/disonds.jpg/)
 
 ## My latest blog posts
