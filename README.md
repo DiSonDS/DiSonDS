@@ -12,9 +12,3 @@
 - [Решение: «Набор перестал быть доступен» Call of Duty: Warzone](https://blog.disonds.com/2020/03/31/nabor-pieriestal-byt-dostupien-warzone/)
 - [Решение: «DEV ERROR 6066» Call of Duty: Warzone](https://blog.disonds.com/2020/03/31/error-6066-warzone/)
 <!-- BLOGPOSTS:END -->
-
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=DiSonDS alt=DiSonDS /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=DiSonDS&show_icons=true&include_all_commits=true)](https://github.com/DiSonDS/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiSonDS&layout=compact)](https://github.com/DiSonDS/github-readme-stats)
