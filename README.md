@@ -7,9 +7,9 @@
 
 ## My latest blog posts
 <!-- BLOGPOSTS:START -->
+- [BatFi: бесплатное open source приложение для ограничения заряда батареи MacBook](https://blog.disonds.com/2024/01/11/batfi-biesplatnoie-open-source-prilozhieniie-dlia-oghranichieniia-zariada-batariei-macbook/)
 - [2 команды для очистки места в Ubuntu](https://blog.disonds.com/2023/12/17/2-komandy-dlia-ochistki-miesta-v-ubuntu/)
 - [Как проверить износ SSD диска MacBook](https://blog.disonds.com/2023/12/04/kak-provierit-iznos-ssd-macbook/)
 - [Arc браузер будущего?](https://blog.disonds.com/2023/11/04/arc-brauzier-budushchiegho/)
 - [Как проверить батарею на MacBook](https://blog.disonds.com/2023/10/22/kak-provierit-batarieiu-na-macbook/)
-- [Zed - высокопроизводительный редактор кода от создателей Atom](https://blog.disonds.com/2023/07/16/zed-vysokoproizvoditielnyi-riedaktor-koda-ot-sozdatieliei-atom/)
 <!-- BLOGPOSTS:END -->
